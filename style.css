@@ -1,0 +1,66 @@
+.jumbotron{
+    background-color: rgb(149,117,205);
+    color: white;
+    padding: 70px 30px 70px 30px;
+    margin: 0 auto;
+}
+
+.title{
+    font-weight: bold;
+    font-size: 2rem;
+}
+
+.row-about-us{
+    font-weight: bold;
+    margin: 0 auto;
+	border-bottom: 1px ridge;
+}
+
+.row-all{
+    margin: 50px auto;
+	border-bottom: 1px ridge;
+	text-align: left;
+}
+
+.row-last{
+    margin: 50px auto;
+    text-align: left;
+    padding-bottom: 50px;
+}
+
+.row-coporate-leader{
+    padding: 10px 0px 20px 0px;
+}
+
+.footer {
+    background-color: rgb(209,195,233);
+}
+
+.col-auto{
+    text-align: center;
+}
+
+h5{
+    font-weight: bold;
+    font-size: 1.6rem;
+}
+
+.row{
+    padding: 20px 0px 20px 0px;
+}
+
+body {
+    font-size: 1.6rem;
+    font-family: 'Roboto', sans-serif;
+}
+  
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 62.5%;
+    font-family: sans-serif;
+}
